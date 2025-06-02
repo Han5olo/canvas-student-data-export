@@ -36,7 +36,7 @@ else:
 # present)
 DL_LOCATION = "./output"
 # List of Course IDs that should be skipped (need to be integers)
-COURSES_TO_SKIP = [288290, 512033]
+COURSES_TO_SKIP = [529, 523, 534, 535, 554, 506, 512, 516]
 
 DATE_TEMPLATE = "%B %d, %Y %I:%M %p"
 
